@@ -1,0 +1,9 @@
+Any recipe
+Ingredients:
+abc
+def
+xyz
+
+Cooking directions:
+
+bake it for 15 mins at 400 F.
